@@ -1,12 +1,7 @@
 # Pig Latin
-
-##Summary
 Pig Latin algorithm. With Tests!
 
-
-##Releases
-
-### Release 0: Convert One Word
+# Release 0: Convert One Word
 
 ```text
 CONVERT SINGLE WORD
@@ -21,7 +16,7 @@ ENDIF
 
 
 
-### Release 1: Convert a Sentence
+# Release 1: Convert a Sentence
 
 ```text
 CONVERT COMPLETE SENTENCE
